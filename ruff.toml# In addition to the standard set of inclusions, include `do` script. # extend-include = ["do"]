@@ -1,0 +1,2 @@
+# In addition to the standard set of inclusions, include `do` script.
+# extend-include = ["do"]
