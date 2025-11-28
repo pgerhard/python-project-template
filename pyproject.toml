@@ -1,0 +1,14 @@
+[project]
+name = "python-project-template"
+version = "0.0.1"
+requires-python = ">=3.13"
+dependencies = [
+    "pre-commit>=3.7.0",
+]
+
+[dependency-groups]
+dev = []
+
+[project.urls]
+Issues = "https://github.com/pgerhard/python-project-template/issues"
+Repository = "https://github.com/pgerhard/python-project-template"
